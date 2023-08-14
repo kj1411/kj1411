@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kj1411
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning web development
+- 👀 I’m interested in coding, web development
+- 🌱 I’m currently learning machine learning
 - 📫 How to reach me email : krunaljavia14@gmail.com
 
 <!---
